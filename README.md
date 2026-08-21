@@ -18,10 +18,9 @@ transport cost → revenue/net revenue → sustainability scoring → AI explana
 
 The dataset used for this project contains Indian state-wise and district-wise sugarcane production and yield data, along with derived bagasse, trash, and press mud quantities.
 
-**Dataset:** [Download Dataset]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOp/view?usp=sharing](https://drive.google.com/file/d/1GUUkaOWCd18Vv99-sol3qcZOUCRqTINC/view?usp=sharing))
+**Dataset:** [Download Dataset](https://drive.google.com/file/d/1GUUkaOWCd18Vv99-sol3qcZOUCRqTINC/view?usp=sharing)
 
 > **Note:** The complete dataset is too large to be uploaded directly to this GitHub repository, so it is hosted externally and can be accessed using the link above.
-
 ## Run it
 
 ### Backend
